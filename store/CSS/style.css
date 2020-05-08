@@ -1,0 +1,53 @@
+body{
+
+font-family: 'Abel', sans-serif;
+
+}
+
+.mm a {
+	margin-left: 38px;
+	text-transform: uppercase;
+	color: red;
+	word-spacing: 10px;
+}
+a{
+	color: black;
+}
+
+#nav-toggle-button {
+color: red;
+}
+
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+.pfont{
+	font-size: 12px;
+}
+.a,
+.b{
+
+  background-image: none;
+  color: red;
+  font-size: 20px;
+}
+.srcbox{
+	height: 40px;
+	width: 350px;
+	border-radius: 30px;
+
+}
+
+.srcboxbtn{
+	background-color: white;
+	border: 0px solid white;
+}
+#btna{
+	font-size: 12px;
+	border-radius: 10px;
+}
+
+
+
